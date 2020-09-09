@@ -7,7 +7,7 @@ const Flex: React.SFC<FlexProps> = () => {
       className={styles.container}
       style={{ height: "100vh" }}
     >
-      <div className={styles.text}>Fully Center</div>
+      <div className={styles.text}>Fully Centered Test</div>
     </div>
   );
 };
