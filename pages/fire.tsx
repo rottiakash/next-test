@@ -1,8 +1,4 @@
-import {
-  useFirestore,
-  useFirestoreCollectionData,
-  useFirestoreCollection,
-} from "reactfire";
+import { useFirestore, useFirestoreCollectionData } from "reactfire";
 import { Suspense } from "react";
 
 export interface FireProps {}
